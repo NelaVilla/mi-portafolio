@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'Kaushan Script', cursive;
+
+}
+
+/*barra navegacion*/
+.bg-dark {
+  background-color: #490921 !important;
+
+}
+.text-logo{
+  font-family: 'Pacifico';
+  font-size: 50px;
+
+}
+/*header*/
+.hero-section{
+background-size: cover;
+background-image: url("../img/bg-header2.jpg");
+background-repeat: no-repeat;
+height: 500px;
+background-position: center;
+
+}
+.textos-header, .textos-header2{
+color: #000000;
+font-size: 50px;
+font-family: 'Kaushan Script';
+
+}
+.texto-header1{
+padding-top: 317px;
+}
