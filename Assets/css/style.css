@@ -2,15 +2,17 @@ body {
   margin: 0;
   border: 0;
   padding: 0;
+  font-family: 'Berkshire Swash', cursive;
   font-family: 'Pacifico', cursive;
   font-family: 'Barlow', sans-serif;
-  font-family: 'Kaushan Script', cursive;
+
 
 }
 
 /*barra navegacion*/
 .bg-dark {
   background-color: #490921 !important;
+
 
 }
 .text-logo{
@@ -28,11 +30,42 @@ background-position: center;
 
 }
 .textos-header, .textos-header2{
-color: #000000;
+color: #ffffff;
 font-size: 50px;
-font-family: 'Kaushan Script';
+font-family: 'Berkshire Swash';
+margin-left: 20px;
 
 }
 .texto-header1{
 padding-top: 317px;
+}
+
+/*contenido-quien soy-*/
+#Quiensoy{
+
+  margin-top: 45px;
+}
+.titulo-presentacion{
+  font-size: 40px;
+  color: #44333A;
+  text-align: center;
+}
+.mi-presentacion li{
+  list-style:none;
+}
+
+.columna1, .columna2{
+  margin-top: 30px;
+  text-align: justify;
+  font-size: 20px;
+  color: #44333A;
+}
+/* Carrusel -Experiencia-hobby*/
+.fono-icon, .front-icon, .plantas-hobby, .huerto-hobby, .graffiti-hobby{
+  width: 200px;
+  height: 200px;
+}
+.titulo-experiencia, .titulo-hobby{
+  font-family: 'Berkshire Swash';
+  text-align: center;
 }
