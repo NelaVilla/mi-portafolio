@@ -22,3 +22,10 @@ $(document).ready(function(){
     } // End if
   });
 });
+$('#myModal').on('shown.bs.modal', function () {
+  $('#myInput').trigger('focus')
+})
+
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
