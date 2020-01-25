@@ -66,14 +66,17 @@ padding-top: 317px;
   font-size: 20px;
   color: #400326;
 }
+
+
 /*linea divisora*/
 .linea-div{
   text-align: center;
+  width: 1000px;
   margin: 50px;
+
 }
 
 
-}
 /* Carrusel -Experiencia-hobby*/
 .fono-icon, .front-icon, .plantas-hobby, .huerto-hobby, .graffiti-hobby, .newzeland-icon{
   width: 200px;
@@ -95,8 +98,10 @@ padding-top: 317px;
   border-color: #AD5B05;
 }
 .titulo-hobbys, .tituloprincipal-experiencia{
-
+color: #400326;
 }
+
+
 /*Plantas medicinales*/
 #plantitas{
   margin: 50px;
@@ -149,6 +154,7 @@ margin: 30px;
   text-align: center;
 }
 .tit-mc, .tit-iguana, .tit-suri, .tit-cupon, .tit-rico{
+  
 
   text-decoration: underline;
 }
@@ -176,4 +182,7 @@ margin: 30px;
   background-color: #009C95;
   color: #ffffff;
 border-color: #509F8C;
+}
+.card-text, .card-subttitle{
+  text-align: center;
 }
