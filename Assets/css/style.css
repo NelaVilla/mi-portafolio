@@ -88,6 +88,7 @@ padding-top: 317px;
   font-family: 'Pacifico';
   text-align: center;
   color: #681915;
+  text-decoration: underline;
 }
 .card-text, .card-subttitle{
   text-align: center;
@@ -123,6 +124,8 @@ text-align: center;
 
   color: #009C95;
   font-family: 'Pacifico';
+  text-align: center;
+  text-decoration: underline;
   }
   .manz1, .ment1{
     text-align: center;
@@ -141,6 +144,7 @@ text-align: center;
   color: #F3BB00;
 text-align: center;
 font-family: 'Pacifico';
+text-decoration: underline;
 }
 
 .primeralinea, .segundalinea{
@@ -154,8 +158,6 @@ margin: 30px;
   text-align: center;
 }
 .tit-mc, .tit-iguana, .tit-suri, .tit-cupon, .tit-rico{
-  
-
   text-decoration: underline;
 }
 .rico-col{
