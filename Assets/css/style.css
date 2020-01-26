@@ -103,37 +103,30 @@ color: #400326;
 }
 
 
-/*Plantas medicinales*/
-#plantitas{
+/*Mujeres en Tech*/
+#mujerestec{
   margin: 50px;
 }
-.plant-med{
-  margin-top: 50px;
-}
-.info-manzanilla, .info-menta{
+
+.tec-mujer{
   text-align: center;
 }
-.boton-menta, .boton-manz{
-text-align: center;
+.mujeres-tecno{
+  width: 700px;
+  margin-top: 30px;
 }
-.manza-usos, .menta-usos{
-  list-style: none;
-  margin-left: 0;
-}
-.infor-plantas{
 
+.infor-mujeres{
   color: #009C95;
   font-family: 'Pacifico';
   text-align: center;
   text-decoration: underline;
   }
-  .manz1, .ment1{
-    text-align: center;
 
+  .boton-niñas{
+    text-align: center;
+    margin-top: 10px;
   }
-.menta, .manzanilla{
-  margin:auto;
-}
 
 /*ultimos trabajos*/
 
